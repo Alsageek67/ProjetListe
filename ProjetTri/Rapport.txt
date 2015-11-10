@@ -1,3 +1,27 @@
 Mardi 10 novembre : 
 
-Mise en place du projet, création du dépôt Git.
+1) Mise en place du projet, création du dépôt Git.
+2) Ajout au dossier du sujet de projet.
+3) Déterminer les structures de données à utiliser
+
+3.0 : Structure des données à trier : liste? Tableau? 
+3.1 : Tas binaire pour le heap sort.
+3.2 : Arbre de recherche équilibré
+
+4)Création des fichiers de travail.
+
+4.1 Créer un .h par type de structure
+4.2 Créer un .c par type de structure
+4.3 Créer un .h par type de tri
+4.4 Créer un .h par type de tri
+4.5 Le .h et le .c pour la génération aléatoire des jeux de test
+4.6 Créer un .c et un .h pour gérer le test expérimental mesure de performance
+	Un petit menu à base de printf et scanf pour choisir entre les différents algo? Ranger les données dans un fichier? 
+	Le prog de test peut alors : charger les données depuis le fichier, créer la structure, ensuite démarrer le test avec l'algorithme
+	choisit. 
+	Pour le retour : un affichage sur terminal de la durée des algos? Lancer les algos en parrallèle? 
+	Sinon, utilisation d'un outil?
+	
+
+A faire : choix liste ou tableau pour ranger les données à trier, choix des tris de chaques catégorie, choix du tri perso,
+Remplir les fichiers avec du code...
