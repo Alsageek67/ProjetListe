@@ -1,0 +1,3 @@
+Mardi 10 novembre : 
+
+Mise en place du projet, création du dépôt Git.
