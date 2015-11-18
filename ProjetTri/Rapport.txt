@@ -25,3 +25,6 @@ Mardi 10 novembre :
 
 A faire : choix liste ou tableau pour ranger les données à trier, choix des tris de chaques catégorie, choix du tri perso,
 Remplir les fichiers avec du code...
+
+lundi 16 novembre :
+Pendant le TP : sbst
