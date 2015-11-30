@@ -26,6 +26,15 @@ int desec(Arbre a)
 	return a->ag-a->ad;
 }
 
+Arbre rd(Arbre a)
+{
+
+}
+Arbre rg(Arbre a)
+{
+
+}
+
 //Sous fonction d'insert
 Arbre alloc(int val)
 {
